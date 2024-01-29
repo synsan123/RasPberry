@@ -8,6 +8,6 @@
 <p>5. 다운로드 완료되면, Reader기에서 SD Card제거.</p>
 <p>6. 라즈베리파이에 SD Card 삽입 후, 장치 On</p>
 <p>7. Set Country에서 South Korea 선택</p>
-<p>8. ID, PassWord 설정 후, Wifi 설정(생략가능)</p>
+<p>8. ID(Busan), PassWord(city****) 설정 후, Wifi 설정(생략가능)</p>
 <p>9. Restart 클릭. 설정 완료</p>
 <p><b>참고사이트 : https://technote.graysky.co.kr/ </p></b>
