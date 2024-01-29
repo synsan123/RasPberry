@@ -21,4 +21,6 @@
 <p>18. ssh 아이디@IP주소 입력. </p>
 <p>19. ls, cd Documents/, ls, vi text.txt로 확인</p>
 <p>20. VNC viewer 다운로드 </p>
+<p>21. VNC viewer 클릭. ifconfig로 확인한 IP입력 후 Raspberry Pi의 ID 및 Password 입력</p>
+<p>22. 끝</p>
 <p><b>참고사이트 : https://technote.graysky.co.kr/ </p></b>
