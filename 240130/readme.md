@@ -12,6 +12,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p>1. cd ~, mkdir 0130, cd 0130, mv ~/WiringPi/led*.* ~/0130 입력 </p>
+<p>1. cd ~/Documents, mkdir 0130, cd 0130, mv ~/WiringPi/led*.* ~/0130 입력 </p>
 <p>1.1 WiringPi디렉토리에서 0130디렉토리로 led파일로 이동</p>
 <p>2.</p>
