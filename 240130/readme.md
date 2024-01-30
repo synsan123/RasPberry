@@ -1,1 +1,9 @@
-
+<h1>Raspberry Pi GPIO Pin 사용 및 LED </h1>
+<p>1. cd ~, pwd 입력. 현재 디렉토리 확인</p>
+<p>2. Terminal에서 git clone https://github.com/WiringPi/WiringPi 입력</p>
+<p>3. cd WiringPi 입력</p>
+<p>4. ./bulid 입력</p>
+<p>5. gpio -v로 다운로드 및 버전 확인 </p>
+<p>6. gpio readall 입력 </p>
+<p>6.1. GPIO Pin 사용 가능하도록 작업 완료 </p>
+<p>7. </p>
