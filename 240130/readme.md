@@ -6,4 +6,9 @@
 <p>5. gpio -v로 다운로드 및 버전 확인 </p>
 <p>6. gpio readall 입력 </p>
 <p>6.1. GPIO Pin 사용 가능하도록 작업 완료 </p>
-<p>7. </p>
+<p>7. Terminal에서 nano led_rgb.c 또는 vi led_rgb.c 입력 후 코드 입력 </p>
+<p>8. gcc -o led_rgb led_rgb.c -l wiringPi 입력하여 목적파일 및 컴파일하여 실행파일 생성</p>
+<p>9. ./led_rgb 입력하여 실행 </p>
+<p></p>
+<p></p>
+<p>1. </p>
