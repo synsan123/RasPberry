@@ -17,3 +17,20 @@
 <p>1. nano ledRed.py 입력</p>
 <p>2. import RPi.GPIO as GPIO 입력, import time 입력 </p>
 <p>3. Code 입력 후 저장. Terminal에서 sudo python ./ledRed.py 입력하여 실행</p>
+<p>-------------------------------------------------------------------------------------------- </p>
+<p>1. sudo apt install samba samba-common-bin 입력 </p>
+<p>2. samba -V 입력</p>
+<p>3. sudo smbpasswd -a busan 입력 후 비번 2번 입력</p>
+<p>4. sudo nano /etc/samba/smb.conf 입력</p>
+<p>5. profiles를 찾아서 세미콜론 부분 다 없앰. 
+      profiles를 pi로 변경. 이후 아래에
+      commnet = superuser
+      path = /home/
+      valid users = busan
+      guest ok = no
+      browseable = yes
+      writable = yes
+      create mask = 0777
+      directory mask = 0777 변경 후 ctrl + o 후 enter로 저장 ctrl + x로 종료 </p>
+<p>6. sudo service smbd restart 입력</p>
+<p>7. 윈도우 탐색기에서 \\Raspberry Pi IP주소 입력으로 들어갈 수 있음 </p>
