@@ -8,7 +8,7 @@
 <p>5. 다운로드 완료되면, Reader기에서 SD Card제거.</p>
 <p>6. 라즈베리파이에 SD Card 삽입 후, 장치 On</p>
 <p>7. Set Country에서 South Korea 선택</p>
-<p>8. ID(busan), PassWord(city****) 설정 후, Wifi 설정(생략가능)</p>
+<p>8. ID(), PassWord() 설정 후, Wifi 설정(생략가능)</p>
 <p>9. Restart 클릭. 설정 완료</p>
 <p>10. Terminal에서 sudo apt update, sudo apt upgrade 입력 </p>
 <p>11. sudo apt install -y ibus ibus-hangul 입력 (한글 깨지는거 원상복구)</p>
