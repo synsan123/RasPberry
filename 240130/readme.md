@@ -23,14 +23,14 @@
 <p>3. sudo smbpasswd -a busan 입력 후 비번 2번 입력</p>
 <p>4. sudo nano /etc/samba/smb.conf 입력</p>
 <p>5. profiles를 찾아서 세미콜론 부분 다 없앰. 
-      profiles를 pi로 변경. 이후 아래에
-      commnet = superuser
-      path = /home/
-      valid users = busan
-      guest ok = no
-      browseable = yes
-      writable = yes
-      create mask = 0777
-      directory mask = 0777 변경 후 ctrl + o 후 enter로 저장 ctrl + x로 종료 </p>
+<p>   profiles를 pi로 변경. 이후 아래에</p>
+<p>   commnet = superuser</p>
+<p>   path = /home/</p>
+<p>   valid users = busan</p>
+<p>   guest ok = no</p>
+<p>   browseable = yes</p>
+<p>   writable = yes</p>
+<p>   create mask = 0777</p>
+<p>   directory mask = 0777 변경 후 ctrl + o 후 enter로 저장 ctrl + x로 종료 </p>
 <p>6. sudo service smbd restart 입력</p>
 <p>7. 윈도우 탐색기에서 \\Raspberry Pi IP주소 입력으로 들어갈 수 있음 </p>
