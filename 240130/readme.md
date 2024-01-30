@@ -15,4 +15,9 @@
 <p>1. cd ~/Documents, mkdir 0130, cd 0130, mv ~/WiringPi/led*.* ~/Documents/0130 입력 </p>
 <p>1.1 WiringPi디렉토리에서 /Documents/0130디렉토리로 led파일로 이동</p>
 <p>2. nano에서 ctrl + K가 오려두기. ctrl + 6 입력하여 복사모드 후 원하는 곳 지정. alt + 6으로 복사. ctrl + u로 붙여넣기</p>
-<p>3. </p>
+<p></p>
+<p></p>
+<p></p>
+<p>1. nano ledRed.py 입력</p>
+<p>2. import RPi.GPIO as GPIO 입력, import time 입력 </p>
+<p>3. Code 입력 후 저장. Terminal에서 sudo python ./ledRed.py 입력하여 실행</p>
