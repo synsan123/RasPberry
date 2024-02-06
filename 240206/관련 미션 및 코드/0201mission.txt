@@ -1,0 +1,15 @@
+Mission 1
+
+HGDmission020101.c  HGDmission020101.py
+
+인체가 감지되면 부저음(경고음)이 울리도록 하세요.
+
+
+
+Mission 2
+
+HGDmission020102.c  HGDmission020102.py
+
+SW1을 누르면 동요1이 나오고, 동요가 나오는 동안에 LED-Red에 불이 켜지도록 하세요. 
+SW2을 누르면 동요2이 나오고, 동요가 나오는 동안에 LED-Green에 불이 켜지도록 하세요.
+SW3을 누르면 동요3이 나오고, 동요가 나오는 동안에 LED-Blue에 불이 켜지도록 하세요.
